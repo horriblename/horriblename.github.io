@@ -30,7 +30,7 @@ Hi! Here are all the projects that I've had a hand in (they're all on my
 [nixrun-nvim]: https://github.com/horriblename/nixrun-nvim
 [nmd]: https://github.com/horriblename/nmd
 [rycee/nmd]: https://git.sr.ht/~rycee/nmd
-[RSS Aggregator]: https://github.com/horriblename/nmd
+[RSS Aggregator]: https://github.com/horriblename/rss-aggregator
 [rss-aggregator-demo]: https://rss-aggre.horriblename.site
 [mathcha]: https://github.com/horriblename/mathcha
 [hyprland-border-actions]: https://github.com/horriblename/hyprland-border-actions
