@@ -5,7 +5,8 @@ template = "projects.html"
 page-template = "projects.html"
 +++
 
-Hi! Here are all the projects that I've had a hand in:
+Hi! Here are all the projects that I've had a hand in (they're all on my
+[Github](https://github.com/horriblename)):
 
 ## Actively Maintained
 
